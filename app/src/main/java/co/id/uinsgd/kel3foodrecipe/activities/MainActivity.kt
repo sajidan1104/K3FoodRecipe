@@ -1,4 +1,4 @@
-package com.azhar.resepmakanan.activities
+package co.id.uinsgd.kel3foodrecipe.activities
 
 import android.app.Activity
 import android.app.ProgressDialog
