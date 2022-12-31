@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Resep Makanan</string>
+    <string name="app_name">Tasty Kitchen</string>
     <string name="fav">FAVORITE</string>
     <string name="recip">RECIPE</string>
     <string name="about"><font color='black'>About</font></string>
@@ -10,8 +10,8 @@
     <string name="about_text">
         <font color='black'>APLIKASI dibuat agar dapat memenuhi Tugas Akhir PAM</font>
         <font color='black'>Aplikasi resep dengan beberapa fitur seperti \n
-            dapat memilih kategori,\n dapat memilih makanan \n
-            detail pembuatan makanan \n menambah favorite makanan \n link yang tersambung ke youtube </font>
-        <font color='black'>--Kelompok 3--</font>
+            - dapat memilih kategori,\n - dapat memilih makanan \n
+            - detail pembuatan makanan \n - menambah favorite makanan \n -  link yang tersambung ke youtube </font>
+        <font color='black'>\n\n--Kelompok 3 D--</font>
     </string>
 </resources>

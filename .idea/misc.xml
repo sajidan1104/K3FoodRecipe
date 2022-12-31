@@ -3,11 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.10989583333333333" />
+        <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/drawable-anydpi/ic_back_whi.xml" value="0.10989583333333333" />
         <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/drawable/bg_circle_radius_primary.xml" value="0.240625" />
         <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/drawable/bg_search.xml" value="0.240625" />
         <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/drawable/ic_link.xml" value="0.240625" />
         <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/drawable/ic_play.xml" value="0.240625" />
+        <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/layout/activity_about.xml" value="0.22447916666666667" />
+        <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/layout/activity_detail_recipe.xml" value="0.22447916666666667" />
+        <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/layout/activity_filter_food.xml" value="0.22447916666666667" />
         <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/layout/activity_main2.xml" value="0.22447916666666667" />
+        <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/layout/list_item_categories.xml" value="0.22447916666666667" />
+        <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/layout/list_item_filter_food.xml" value="0.22447916666666667" />
         <entry key="..\:/dasprog/PPam/ResepMakanan-master/Kel3FoodRecipe/app/src/main/res/layout/toolbar_main.xml" value="0.2234375" />
       </map>
     </option>
