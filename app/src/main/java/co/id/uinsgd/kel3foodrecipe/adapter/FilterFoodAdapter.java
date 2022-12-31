@@ -10,8 +10,8 @@ import android.widget.TextView;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.azhar.resepmakanan.R;
-import com.azhar.resepmakanan.model.ModelFilter;
+import co.id.uinsgd.kel3foodrecipe.R;
+import co.id.uinsgd.kel3foodrecipe.model.ModelFilter;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 

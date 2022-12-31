@@ -1,17 +1,15 @@
 package co.id.uinsgd.kel3foodrecipe.activities
 
-import android.app.ProgressDialog
-import android.content.Intent
+
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
 import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.azhar.resepmakanan.R
-import com.azhar.resepmakanan.adapter.FavAdapter
-import com.azhar.resepmakanan.adapter.FilterFoodAdapter
-import com.azhar.resepmakanan.model.ModelFilter
-import com.azhar.resepmakanan.realm.RealmHelper
+import co.id.uinsgd.kel3foodrecipe.R
+import co.id.uinsgd.kel3foodrecipe.adapter.FavAdapter
+import co.id.uinsgd.kel3foodrecipe.model.ModelFilter
+import co.id.uinsgd.kel3foodrecipe.realm.RealmHelper
 import kotlinx.android.synthetic.main.activity_filter_food.*
 import kotlinx.android.synthetic.main.activity_main2.*
 import java.util.ArrayList

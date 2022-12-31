@@ -17,11 +17,11 @@ import com.androidnetworking.AndroidNetworking
 import com.androidnetworking.common.Priority
 import com.androidnetworking.error.ANError
 import com.androidnetworking.interfaces.JSONObjectRequestListener
-import com.azhar.resepmakanan.R
-import com.azhar.resepmakanan.adapter.FilterFoodAdapter
-import com.azhar.resepmakanan.model.ModelFilter
-import com.azhar.resepmakanan.model.ModelMain
-import com.azhar.resepmakanan.networking.Api
+import co.id.uinsgd.kel3foodrecipe.R
+import co.id.uinsgd.kel3foodrecipe.adapter.FilterFoodAdapter
+import co.id.uinsgd.kel3foodrecipe.model.ModelFilter
+import co.id.uinsgd.kel3foodrecipe.model.ModelMain
+import co.id.uinsgd.kel3foodrecipe.networking.Api
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import kotlinx.android.synthetic.main.activity_filter_food.*

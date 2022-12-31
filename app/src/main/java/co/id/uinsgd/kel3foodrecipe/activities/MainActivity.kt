@@ -16,11 +16,10 @@ import com.androidnetworking.AndroidNetworking
 import com.androidnetworking.common.Priority
 import com.androidnetworking.error.ANError
 import com.androidnetworking.interfaces.JSONObjectRequestListener
-import com.azhar.resepmakanan.R
-import com.azhar.resepmakanan.adapter.MainAdapter
-import com.azhar.resepmakanan.model.ModelMain
-import com.azhar.resepmakanan.networking.Api
-import kotlinx.android.synthetic.main.activity_detail_recipe.*
+import co.id.uinsgd.kel3foodrecipe.R
+import co.id.uinsgd.kel3foodrecipe.adapter.MainAdapter
+import co.id.uinsgd.kel3foodrecipe.model.ModelMain
+import co.id.uinsgd.kel3foodrecipe.networking.Api
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.toolbar_main.*
 import org.json.JSONException
