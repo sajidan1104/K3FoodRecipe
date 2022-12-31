@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Kel3FoodRecipe</string>
+    <string name="app_name">Tasty Kitchen</string>
+    <string name="fav">FAVORITE</string>
+    <string name="recip">RECIPE</string>
+    <string name="about"><font color='black'>About</font></string>
+    <string name="quotes">
+        <font color='black'>The love of cooking is \n The</font>
+        <font color='#DC143C'>love of life</font>
+    </string>
 </resources>
