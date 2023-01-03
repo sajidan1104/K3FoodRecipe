@@ -1,7 +1,7 @@
-package com.azhar.resepmakanan.realm
+package co.id.uinsgd.kel3foodrecipe.realm
 
 import android.content.Context
-import com.azhar.resepmakanan.model.ModelFilter
+import co.id.uinsgd.kel3foodrecipe.model.ModelFilter
 import io.realm.Realm
 
 class RealmHelper(context: Context) {
