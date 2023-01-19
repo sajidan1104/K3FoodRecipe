@@ -1,4 +1,4 @@
-# K3FoodRecipe
+# K3FoodRecipe || Tasty Kitchen
 Android based Food Recipe Application
 
 # Desc Application 
@@ -6,3 +6,5 @@ The application designed is an application that contains various types of cuisin
 
 ![20230119_110808](https://user-images.githubusercontent.com/101171434/213356986-b554fd44-6ae6-486f-9162-9c0c0ce56b43.jpg)
 
+> **Link Apps :** [Tasty Kitchen](https://play.google.com/store/apps/details?id=co.id.uinsgd.kel3foodrecipe&pli=1)
+> **Link Medium :** [Food Recipe Application | Tasty Kitchen] (https://medium.com/@putrifjlstr/food-recipe-application-tasty-kitchen-c8468d2425f2)
